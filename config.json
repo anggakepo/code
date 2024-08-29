@@ -3,7 +3,7 @@
     "countdown_delay": 11,
     "use_proxies": false,
     "random_selection": true,
-    "selected_games": ["2","6"],
+    "selected_games": ["3","9"],
     "games": {
         "1": {
             "name": "Riding Extreme 3D",
